@@ -1,0 +1,36 @@
+.containerone {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(223, 223, 223);
+}
+
+.alldiv {
+    flex-direction: column;
+    width: 100%;
+    margin-top: 10%;
+}
+
+.img {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.altkisim {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.columns {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
